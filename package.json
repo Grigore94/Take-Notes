@@ -19,7 +19,7 @@
     "url": "git+https://github.com/Grigore94/Take-Notes.git"
   },
   "engines": {
-    "node": "10.x"
+    "node": "13.x"
   },
   "author": "",
   "license": "ISC",
